@@ -1,7 +1,9 @@
 .idea/
+*.sw[a-z]
 
 ### App ###
 
+.nyc_output
 .cachedb
 
 
